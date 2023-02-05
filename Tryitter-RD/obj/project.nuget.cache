@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1HqlXaw8VR2JZA+xI1U6KgekMk+pjBVC92hQzbbayXnLEIm+A6sRKqGfQGHjMtg1WRm6YmppQk3pLg4HHjF8GA==",
+  "dgSpecHash": "cnabzde824SVAFhJ7PJ/G0jTBhzTtCCwPBDsKOx1xjdJ0x6yK/L938zU1oQp/JyHUrBhKFrB6e718/hqeF/e8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD\\Tryitter-RD\\Tryitter-RD.csproj",
+  "projectFilePath": "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD\\Tryitter-RD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ogoid\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ogoid\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

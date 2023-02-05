@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD\\Tryitter-RD\\Tryitter-RD.csproj": {}
+    "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD\\Tryitter-RD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD\\Tryitter-RD\\Tryitter-RD.csproj": {
+    "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD\\Tryitter-RD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD\\Tryitter-RD\\Tryitter-RD.csproj",
+        "projectUniqueName": "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD\\Tryitter-RD.csproj",
         "projectName": "Tryitter-RD",
-        "projectPath": "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD\\Tryitter-RD\\Tryitter-RD.csproj",
+        "projectPath": "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD\\Tryitter-RD.csproj",
         "packagesPath": "C:\\Users\\ogoid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD\\Tryitter-RD\\obj\\",
+        "outputPath": "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ogoid\\AppData\\Roaming\\NuGet\\NuGet.Config",
