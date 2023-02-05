@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD\\Tryitter-RD.csproj": {}
+    "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD.Project.Test\\Tryitter-RD.Project.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD\\Tryitter-RD.csproj": {
+    "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD.Project.Test\\Tryitter-RD.Project.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD\\Tryitter-RD.csproj",
-        "projectName": "Tryitter-RD",
-        "projectPath": "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD\\Tryitter-RD.csproj",
+        "projectUniqueName": "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD.Project.Test\\Tryitter-RD.Project.Test.csproj",
+        "projectName": "Tryitter-RD.Project.Test",
+        "projectPath": "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD.Project.Test\\Tryitter-RD.Project.Test.csproj",
         "packagesPath": "C:\\Users\\ogoid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD\\obj\\",
+        "outputPath": "C:\\Users\\ogoid\\OneDrive\\Documents\\ogoiddev_git_area\\C#\\projects\\Tryitter-RD-Project\\Tryitter-RD.Project.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ogoid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,13 +40,25 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "EntityFramework": {
+            "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[6.4.4, )"
+              "version": "[17.1.0, )"
             },
-            "Swashbuckle.AspNetCore": {
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
             }
           },
           "imports": [
@@ -61,9 +73,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
