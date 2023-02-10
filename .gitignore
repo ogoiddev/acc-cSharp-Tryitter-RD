@@ -58,4 +58,6 @@ Tryitter-RD/obj/Debug/net6.0/Tryitter-RD.pdb
 Tryitter-RD/obj/Debug/net6.0/ref/Tryitter-RD.dll
 Tryitter-RD/obj/Debug/net6.0/Tryitter-RD.csproj.AssemblyReference.cache
 Tryitter-RD/obj/Debug/net6.0/Tryitter-RD.GeneratedMSBuildEditorConfig.editorconfig
-Tryitter-RD/Program.cs
+Tryitter-RD/obj/Debug/net6.0/project.razor.json
+Tryitter-RD.Project.Test/obj/Debug/net6.0/Tryitter-RD.Project.Test.csproj.AssemblyReference.cache
+Tryitter-RD.Project.Test/obj/Debug/net6.0/Tryitter-RD.Project.Test.GeneratedMSBuildEditorConfig.editorconfig
